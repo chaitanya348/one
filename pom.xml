@@ -39,7 +39,7 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://3.91.39.247:8081/repository/second-deploy/</url>
+		    <url>http://3.91.39.247:8081/repository/third/</url>
 		 </snapshotRepository>
 		
 		<repository>
